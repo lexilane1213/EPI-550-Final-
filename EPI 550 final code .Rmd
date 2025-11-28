@@ -1,5 +1,6 @@
 ---
 title: "EPI 550 Final code"
+author: "Brianna Delph & Lexi Edwards"
 output: html_document
 date: "2025-11-28"
 ---
@@ -24,5 +25,6 @@ summary(cars)
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
+
 
 
