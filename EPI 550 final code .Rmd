@@ -1,0 +1,27 @@
+---
+title: "EPI 550 final code Lexi"
+output: html_document
+date: "2025-11-28"
+---
+
+```{r setup, include=FALSE}
+library(survival)
+library(survminer) 
+library(ggplot2)
+library(multcomp)
+
+fham <- haven::read_sas("fham.sas7bdat")
+```
+
+
+
+```{r cars}
+summary(cars)
+```
+
+
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
