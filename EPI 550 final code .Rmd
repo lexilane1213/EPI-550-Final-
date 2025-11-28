@@ -1,5 +1,5 @@
 ---
-title: "EPI 550 final code Lexi"
+title: "EPI 550 Final code"
 output: html_document
 date: "2025-11-28"
 ---
@@ -24,4 +24,5 @@ summary(cars)
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
+
 
